@@ -8,9 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/styled-components": "^5.0.1",
+    "@types/styled-system": "^5.1.9",
     "next": "9.3.3",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5"
   },
   "devDependencies": {
     "@types/node": "^13.9.5",
